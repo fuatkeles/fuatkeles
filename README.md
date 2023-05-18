@@ -22,4 +22,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fuatkeles&" alt="fuatkeles" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fuatkeles&label=Profile%20views&color=8aebff&style=flat" alt="fuatkeles" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=fuatkeles&label=Profile%20views&color=8aebff&style=flat" alt="fuatkeles" /> </p>
